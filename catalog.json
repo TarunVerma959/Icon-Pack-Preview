@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updatedAt": "2026-09-09",
   "icons": [
     {
@@ -7,6 +7,69 @@
       "label": "Sample Icon",
       "packageName": "com.example.sample",
       "image": "icons/sample.png",
+      "status": "coming_soon"
+    },
+    {
+      "id": "whatsapp",
+      "label": "WhatsApp",
+      "packageName": "com.whatsapp",
+      "image": "icons/whatsapp.png",
+      "status": "coming_soon"
+    },
+    {
+      "id": "instagram",
+      "label": "Instagram",
+      "packageName": "com.instagram.android",
+      "image": "icons/instagram.png",
+      "status": "coming_soon"
+    },
+    {
+      "id": "gmail",
+      "label": "Gmail",
+      "packageName": "com.google.android.gm",
+      "image": "icons/gmail.png",
+      "status": "ready_for_next_update"
+    },
+    {
+      "id": "youtube",
+      "label": "YouTube",
+      "packageName": "com.google.android.youtube",
+      "image": "icons/youtube.png",
+      "status": "coming_soon"
+    },
+    {
+      "id": "amazon",
+      "label": "Amazon",
+      "packageName": "in.amazon.mShop.android.shopping",
+      "image": "icons/amazon.png",
+      "status": "coming_soon"
+    },
+    {
+      "id": "spotify",
+      "label": "Spotify",
+      "packageName": "com.spotify.music",
+      "image": "icons/spotify.png",
+      "status": "ready_for_next_update"
+    },
+    {
+      "id": "telegram",
+      "label": "Telegram",
+      "packageName": "org.telegram.messenger",
+      "image": "icons/telegram.png",
+      "status": "coming_soon"
+    },
+    {
+      "id": "netflix",
+      "label": "Netflix",
+      "packageName": "com.netflix.mediaclient",
+      "image": "icons/netflix.png",
+      "status": "coming_soon"
+    },
+    {
+      "id": "twitter",
+      "label": "X",
+      "packageName": "com.twitter.android",
+      "image": "icons/twitter.png",
       "status": "coming_soon"
     }
   ]
