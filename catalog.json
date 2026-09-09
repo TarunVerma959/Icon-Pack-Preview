@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-09",
+  "icons": [
+    {
+      "id": "sample",
+      "label": "Sample Icon",
+      "packageName": "com.example.sample",
+      "image": "icons/sample.png",
+      "status": "coming_soon"
+    }
+  ]
+}
